@@ -12,14 +12,14 @@ gb4e_fmt_labelled = """
 \\ex\\label{{ex:{label}}}
 \\gll {} \\\\
 {} \\\\
-\\trans {}
+\\trans `{}' \\\\
 """
 
 gb4e_fmt = """
 \\ex
 \\gll {} \\\\
 {} \\\\
-\\trans {}
+\\trans `{}' \\\\
 """
 
 def gb4e(lst):
@@ -60,7 +60,7 @@ leipzigjs_fmt = """
 <div data-gloss>
 <p>{}</p>
 <p>{}</p>
-<p>{}</p>
+<p>‘{}’</p>
 </div>
 """
 
