@@ -1,3 +1,9 @@
+# THIS METHOD IS DEPRECATED
+
+Use `pandoc-ling` created and maintained by Michael Cysouw: https://github.com/cysouw/pandoc-ling.
+
+`pandoc-ling` is now actively developed, produces the gloss for a wide range of formats (LaTeX, HTML, docx, pptx) and is easy to install/use.
+
 # pangloss
 
 Provides support for interlinear glosses with Markdown example lists.
